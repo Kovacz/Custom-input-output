@@ -1,10 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
-#include <string>
-#include <ctime>
-#include <random>
-#include <cmath>
-#include <vector>
 #include "Test.h"
 using namespace std;
 using namespace Input;
